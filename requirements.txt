@@ -1,0 +1,6 @@
+accelerate
+ctranslate2
+faster-whisper
+gradio==4.37.2
+librosa
+torch
